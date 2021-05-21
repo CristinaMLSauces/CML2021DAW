@@ -21,7 +21,7 @@ and open the template in the editor.
     <th>UNIDAD 1</th>
   <tr>
     <td><a>Tarea 1 - Tutorial de xampp</a></td>
-    <td><a title="Play" href=""><img src="./images/cruz.png"/></a></td>
+    <td><img src="./images/tic.png"/><a title="Play" href="UD1/Tarea1/UD1 - T1.pdf"><img src="./images/play.png"/></a></td>
   </tr>
   <tr>
     <td > <a>Tarea 2 - Cuestiones/Preguntas</a></td>
