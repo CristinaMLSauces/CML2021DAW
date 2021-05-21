@@ -136,7 +136,7 @@ and open the template in the editor.
   </tr>
     <tr>
     <td><a>Tarea 3 - Doxygen</a></td>
-    <td><a title="Play" href="https://daw207.ieslossauces.es/AplicacionFinal2021Cristina/doc/phpdocumentor/index.html" target="_blank"><img src="./images/cruz.png"/></a></td>
+    <td><img src="./images/tic.png"/><a title="Play" href="UD7/Tarea3/Doxygen.pdf" target="_blank"><img src="./images/play.png"/></td>
   </tr>
   <tr>
     <td><a>Tarea 4 - Documentar app</a></td>
