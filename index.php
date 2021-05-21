@@ -47,17 +47,17 @@ and open the template in the editor.
   </tr>
   <tr>
     <td><a>Tarea 5 - Sitios virtuales</a></td>
-    <td><img src="./images/tic.png"/></td>
+    <td><img src="./images/tic.png"/><a title="Play" href="https://github.com/CristinaMLSauces/CML2021DAW/tree/developer/UD2/Tarea5/sites-available" target="_blank"><img src="./images/play.png"/></a></td>
   </tr>
 <th>UNIDAD 3</th>
   <tr>
     <td><a>Tarea 1 - Enjaular Usuarios</a></td>
-    <td><img src="./images/tic.png"/></td>
+    <td><img src="./images/tic.png"/><a title="Play" href="https://github.com/CristinaMLSauces/CML2021DAW/tree/developer/UD3/Tarea1" target="_blank"><img src="./images/play.png"/></a></td>
   </tr>
 <th>UNIDAD 4</th>
   <tr>
     <td><a>Tarea 1 - DNS</a></td>
-    <td><img src="./images/tic.png"/></td>
+    <td><img src="./images/tic.png"/><a title="Play" href="https://github.com/CristinaMLSauces/CML2021DAW/tree/developer/UD4/Tarea1" target="_blank"><img src="./images/play.png"/></a></td>
   </tr>
 <th>UNIDAD 5</th>
   <tr>
@@ -99,31 +99,31 @@ and open the template in the editor.
   <th>UNIDAD 6</th>
   <tr>
     <td><a>Tarea 1 - Tomcat W10</a></td>
-    <td><a title="Play" href="" target="_blank"><img src="./images/cruz.png"/></a></td>
+    <td><img src="./images/cruz.png"/></td>
   </tr>
   <tr>
     <td><a>Tarea 2 - Tomcat Ubuntu</a></td>
-   <td><a title="Play" href="" target="_blank"><img src="./images/cruz.png"/></a></td>
+   <td><img src="./images/cruz.png"/></td>
   </tr>
   <tr>
     <td><a>Tarea 3 - Netbeans con tomcat</a></td>
-    <td><a title="Play" href="" target="_blank"><img src="./images/cruz.png"/></a></td>
+    <td><img src="./images/cruz.png"/></td>
   </tr>
     <tr>
     <td><a>Tarea 4 - Desarollo de una web con jsp y servlets</a></td>
-   <td><a title="Play" href="" target="_blank"><img src="./images/cruz.png"/></a></td>
+   <td><img src="./images/cruz.png"/></td>
   </tr>
    <tr>
     <td><a>Tarea 5 - Desplegar una web con jsp y servlets</a></td>
-   <td><a title="Play" href="" target="_blank"><img src="./images/cruz.png"/></a></td>
+   <td><img src="./images/cruz.png"/></td>
   </tr>
   <tr>
     <td><a>Tarea 6 - HTTPS</a></td>
-    <td><a title="Play" href="" target="_blank"><img src="./images/tic.png"/></a></td>
+    <td><img src="./images/tic.png"/><a title="Play" href="https://github.com/CristinaMLSauces/CML2021DAW/tree/developer/UD6/authdigest" target="_blank"><img src="./images/play.png"/></a></td>
   </tr>
   <tr>
     <td><a>Tarea 7 - Autenticacion y control de acceso</a></td>
-    <td><a title="Play" href="" target="_blank"><img src="./images/tic.png"/></a></td>
+    <td><img src="./images/tic.png"/><a title="Play" href="https://github.com/CristinaMLSauces/CML2021DAW/tree/developer/UD6/authdigest" target="_blank"><img src="./images/play.png"/></a></td>
   </tr>
   <th>UNIDAD 7</th>
   <tr>
