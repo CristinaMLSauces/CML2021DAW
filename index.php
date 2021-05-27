@@ -21,7 +21,7 @@ and open the template in the editor.
     <th>UNIDAD 1</th>
   <tr>
     <td><a>Tarea 1 - Tutorial de xampp</a></td>
-    <td><a title="Play" href=""><img src="./images/cruz.png"/></a></td>
+    <td><img src="./images/tic.png"/><a title="Play" href="UD1/Tarea1/UD1 - T1.pdf"><img src="./images/play.png"/></a></td>
   </tr>
   <tr>
     <td > <a>Tarea 2 - Cuestiones/Preguntas</a></td>
@@ -43,7 +43,7 @@ and open the template in the editor.
   </tr>
   <tr>
     <td><a>Tarea 4 - App en hosting gratuito</a></td>
-    <td><img src="./images/cruz.png"/></td>
+    <td><img src="./images/tic.png"/><a title="Play" href="https://untormented-languag.000webhostapp.com/index.php" target="_blank"><img src="./images/play.png"/></a></td>
   </tr>
   <tr>
     <td><a>Tarea 5 - Sitios virtuales</a></td>
@@ -136,7 +136,7 @@ and open the template in the editor.
   </tr>
     <tr>
     <td><a>Tarea 3 - Doxygen</a></td>
-    <td><a title="Play" href="https://daw207.ieslossauces.es/AplicacionFinal2021Cristina/doc/phpdocumentor/index.html" target="_blank"><img src="./images/cruz.png"/></a></td>
+    <td><img src="./images/tic.png"/><a title="Play" href="UD7/Tarea3/Doxygen.pdf" target="_blank"><img src="./images/play.png"/></td>
   </tr>
   <tr>
     <td><a>Tarea 4 - Documentar app</a></td>
