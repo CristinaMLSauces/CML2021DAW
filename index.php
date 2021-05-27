@@ -43,7 +43,7 @@ and open the template in the editor.
   </tr>
   <tr>
     <td><a>Tarea 4 - App en hosting gratuito</a></td>
-    <td><img src="./images/cruz.png"/></td>
+    <td><img src="./images/tic.png"/><a title="Play" href="https://untormented-languag.000webhostapp.com/index.php" target="_blank"><img src="./images/play.png"/></a></td>
   </tr>
   <tr>
     <td><a>Tarea 5 - Sitios virtuales</a></td>
